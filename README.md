@@ -47,8 +47,12 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![ultimakercura](https://github.com/Preetha-Senthamilan/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/119390282/bbd38a8b-88e0-48df-a62d-5b7d27dfed32)
+
+ 
+
+### Name:Preetha S
+### Register Number: 212222230110
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
