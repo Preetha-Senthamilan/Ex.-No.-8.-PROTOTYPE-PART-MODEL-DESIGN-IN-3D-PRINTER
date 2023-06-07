@@ -47,7 +47,7 @@
 
 ## Output:
 
-![ultimakercura](https://github.com/Preetha-Senthamilan/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/119390282/bbd38a8b-88e0-48df-a62d-5b7d27dfed32)
+![Screenshot 2023-06-07 110208](https://github.com/Preetha-Senthamilan/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/119390282/b649b7d4-c1e1-44ea-b3ab-0e0d092d35c1)
 
  
 
